@@ -1,1 +1,1 @@
-# NixOS
+# NixOS machine guide
